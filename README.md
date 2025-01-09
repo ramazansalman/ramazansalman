@@ -39,7 +39,6 @@
 ![VUEJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![]()
 
-
 # Workflow Platforms ⏱️
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![REDMINE](https://img.shields.io/badge/Redmine-9C0000?style=for-the-badge&logo=Redmine&logoColor=white)
@@ -56,12 +55,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramazansalman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazansalman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramazansalman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![QUOTE](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br><br />
-[![](https://visitor-badge.laobi.icu/badge?page_id=ramazansalman.ramazansalman)](#)
+[![VISITORCOUNTER](https://visitor-badge.laobi.icu/badge?page_id=ramazansalman.ramazansalman)](#)
 <br><br />
